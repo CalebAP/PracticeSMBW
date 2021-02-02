@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SMN" />
+	<options>
+		<section name="PracticeSMBW">
+			<option name="PracticeSMBW">
+				<choice name="Enabled">
+					<patch id="Normal" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="Normal">
+		<folder external="/PracticeSMBW/Normal" recursive="false" />
+		<folder external="/PracticeSMBW/Normal" disc="/" />
+	</patch>
+</wiidisc>
