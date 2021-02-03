@@ -7,7 +7,7 @@ To install this mod, follow these steps:
 2. Go to the [Releases](https://github.com/CalebAP/PracticeSMBW/releases) section of this page and download the .zip file onto your computer
 3. Unzip the file directly into the root of your Wii's sd card/usb stick, and there should be a 'PracticeSMBW' folder and a 'riivolution' folder (you may remove the licence and readme file if you wish)
 4. Put the sd card/usb stick back into the Wii, and launch Riivolution
-5. Choose either the standard 'PracticeSMBW' or the '8-1 + 8-2 RNG Disabled', not both
+5. Enable 'PracticeSMBW'
 6. Hit launch and start practicing
 
 ## Features
