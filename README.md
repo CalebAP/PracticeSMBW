@@ -1,5 +1,5 @@
 # PracticeSMBW
-A speedrunning practice mod for New Super Mario Bros. Wii. The goal of this mod is my make a NSMBW practice mod that allows for practice in *ALL* Any% levels, and various others in need. Inspired by [Romain's BetterSMBW](https://github.com/R0mainSR/BetterSMBW). Release trailer: https://youtu.be/RXi3SN3gskI
+A speedrunning practice mod for New Super Mario Bros. Wii. Inspired by [Romain's BetterSMBW](https://github.com/R0mainSR/BetterSMBW). Release trailer: https://youtu.be/RXi3SN3gskI
 
 ## Installation
 To install this mod, follow these steps:
