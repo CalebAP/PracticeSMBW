@@ -1,4 +1,4 @@
-<wiidisc version="1" shiftfiles="true" root="/PracticeSMBW">
+<wiidisc version="1" shiftfiles="true" root="/NoW5">
 	<id game="SMN">
 		<region type="P"/>
 		<region type="E"/>
@@ -6,14 +6,14 @@
 	</id>
 	<options>
 		<section name="PracticeSMBW">
-			<option name="PracticeSMBW" id="PSMBW">
+			<option name="Any% No World 5" id="NoW5">
 				<choice name="Enabled">
-					<patch id="PSMBW"/>
+					<patch id="NoW5"/>
 				</choice>
 			</option>
 		</section>
 	</options>
-	<patch id="PSMBW">
+	<patch id="NoW5">
 		<!-- Inject Loader -->
 		<!--PAL--><memory offset="0x80328478" value="80001810" original="8015BC60" />
 		<!--NTSC--><memory offset="0x80328130" value="80001810" original="8015BB20" />
