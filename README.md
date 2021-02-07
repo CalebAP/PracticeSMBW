@@ -5,9 +5,9 @@ A speedrunning practice mod for New Super Mario Bros. Wii made by Qr1pt1k and Ca
 To install this mod, follow these steps:
 1. Download Riivolution via one of the many online written/video tutorials
 2. Go to the [Releases](https://github.com/CalebAP/PracticeSMBW/releases) section of this page and download the .zip file onto your computer
-3. Unzip the file directly into the root of your Wii's sd card/usb stick, and there should be a 'PracticeSMBW' folder and a 'riivolution' folder (you may remove the licence and readme file if you wish)
+3. Unzip the file directly into the root of your Wii's sd card/usb stick (you may remove the licence and readme file if you wish)
 4. Put the sd card/usb stick back into the Wii, and launch Riivolution
-5. Enable 'PracticeSMBW'
+5. Enable the category that you are practicing (only one, if multiple are chosen at the same time, it will not work)
 6. Hit launch and start practicing
 
 ## Features
