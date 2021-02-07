@@ -1,5 +1,5 @@
 # PracticeSMBW
-A speedrunning practice mod for New Super Mario Bros. Wii made by Qr1pt1k and CalebAP. Inspired by [Romain's BetterSMBW](https://github.com/R0mainSR/BetterSMBW). Release trailer: https://youtu.be/RXi3SN3gskI
+A speedrunning practice mod for New Super Mario Bros. Wii. Inspired by [Romain's BetterSMBW](https://github.com/R0mainSR/BetterSMBW).
 
 ## Installation
 To install this mod, follow these steps:
@@ -12,10 +12,16 @@ To install this mod, follow these steps:
 
 ## Features
 - [BetterIGT by TheCodingBoy](https://github.com/LetsPlentendo-CH/BetterIGT) allowing for presice in game time measurement
-- All Any% levels have pipes added to reset various sections of the levels and the time limit set to 999
+- All Any% levels have pipes added to reset various sections of the levels and the time limit set to 900
 - 8-1 and 8-2 can optionally have the meteors removed, causing annoying RNG to no longer screw with your practice
 - 8-Airship has multiple pipes in the Bowser Jr. boss fight to allow for continuous bombless practice, and can supply you with extra propellers
-- 2 pipes in 3-C for LCK practice
+- Categories other than Any% currently in developement, see below for more details
+
+### Other Categories
+- All NoW5 levels will be released soon, within 2 weeks (as of Feb. 6)
+- Low% levels 50% done
+- Cannonless/ARE levels will be worked on after the completion of low%, and will be released at the same time due to the levels being largely the same
+- No 100% levels have been edited yet, and due to the length of the category, it is not currently being worked on (sorry :\)
 
 ## Pull requests
 If you would like to contirbute to the mod, you are welcome to submit a pull request adding/modifying features.
