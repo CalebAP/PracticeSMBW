@@ -5,8 +5,8 @@
 		<region type="J"/>
 	</id>
 	<options>
-		<section name="Low%">
-			<option name="Low%" id="Low%">
+		<section name="PracticeSMBW">
+			<option name="Low% (Not available)" id="Low%">
 				<choice name="Enabled">
 					<patch id="Low%"/>
 				</choice>

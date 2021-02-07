@@ -6,7 +6,7 @@
 	</id>
 	<options>
 		<section name="PracticeSMBW">
-			<option name="Any% No World 5" id="NoW5">
+			<option name="Any% No World 5 (Incomplete)" id="NoW5">
 				<choice name="Enabled">
 					<patch id="NoW5"/>
 				</choice>
