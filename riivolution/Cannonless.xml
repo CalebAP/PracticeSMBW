@@ -6,7 +6,7 @@
 	</id>
 	<options>
 		<section name="PracticeSMBW">
-			<option name="Cannonless (Not available)" id="Cless">
+			<option name="Cannonless" id="Cless">
 				<choice name="Enabled">
 					<patch id="Cless"/>
 				</choice>

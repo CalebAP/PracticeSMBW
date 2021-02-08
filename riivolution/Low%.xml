@@ -6,7 +6,7 @@
 	</id>
 	<options>
 		<section name="PracticeSMBW">
-			<option name="Low% (Not available)" id="Low%">
+			<option name="Low%" id="Low%">
 				<choice name="Enabled">
 					<patch id="Low%"/>
 				</choice>
