@@ -6,7 +6,7 @@
 	</id>
 	<options>
 		<section name="PracticeSMBW">
-			<option name="All Regular Exits (18%)" id="ARE">
+			<option name="All Regular Exits" id="ARE">
 				<choice name="Enabled">
 					<patch id="ARE"/>
 				</choice>
