@@ -5,7 +5,7 @@ This mod is very due for an update, which is being worked on currently, check th
 
 ## Installation
 To install this mod, follow these steps:
-1. Download Riivolution via one of the many online written/video tutorials (https://wii.guide for a Wii, or https://wiiu.hacks.guide for a Wii U) 
+1. Download Riivolution via one of the many online written/video tutorials (https://www.youtube.com/watch?v=jprzsoZW9gM or https://wii.guide for a Wii, or https://wiiu.hacks.guide for a Wii U)
 2. Go to the [Releases](https://github.com/CalebAP/PracticeSMBW/releases) section of this page and download the .zip file onto your computer
 3. Unzip the file directly into the root of your Wii's sd card/usb stick, there should be a 'PracticeSMBW' folder and a 'riivolution' folder
 4. Put the sd card/usb stick back into the Wii, and launch Riivolution
