@@ -1,4 +1,4 @@
-<wiidisc version="1" shiftfiles="true" root="/PracticeSMBW/General">
+<wiidisc version="1" shiftfiles="true" root="/PracticeSMBW/Any%">
 	<id game="SMN">
 		<region type="P"/>
 		<region type="E"/>
@@ -6,7 +6,7 @@
 	</id>
 	<options>
 		<section name="PracticeSMBW">
-			<option name="General" id="Any%">
+			<option name="Any%" id="Any%">
 				<choice name="Enabled">
 					<patch id="Any%"/>
 				</choice>
