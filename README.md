@@ -15,8 +15,8 @@ To install this mod, follow these steps:
 6. Hit launch and start practicing
 
 ## Features
-- [BetterIGT by TheCodingBoy](https://github.com/LetsPlentendo-CH/BetterIGT) allowing for presice in game time measurement
-- All Any% levels have pipes added to reset various sections of the levels and the time limit set to 999
+- [BetterIGT by RootCubed](https://github.com/RootCubed/BetterIGT) allowing for presice in game time measurement
+- All Any% levels have pipes added to reset various sections of the levels and the time limit set to 900
 - 8-1 and 8-2 have the meteors removed, causing annoying RNG to no longer screw with your practice
 - 8-Airship has multiple pipes in the Bowser Jr. boss fight to allow for continuous bombless practice, and can supply you with extra propellers
 - 2 pipes in 3-C for LCK practice
